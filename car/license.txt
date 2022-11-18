@@ -1,0 +1,11 @@
+Model Information:
+* title:	car
+* source:	https://sketchfab.com/3d-models/car-bd708de48d364e88ae61eef8a9640bf1
+* author:	Stanislav (https://sketchfab.com/stas.redckin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "car" (https://sketchfab.com/3d-models/car-bd708de48d364e88ae61eef8a9640bf1) by Stanislav (https://sketchfab.com/stas.redckin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
